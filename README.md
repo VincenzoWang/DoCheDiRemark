@@ -1,2 +1,2 @@
 # 说明
-DoCheDiSpider是爬虫文件，Remark是针对最满意和最不满意评论的词频统计
+DoCheDiSpider是爬虫文件，Remark是针对最满意和最不满意评论的词频统计。右上角Code下拉标签中可以下载代码。
